@@ -1,0 +1,140 @@
+#English File
+
+#Tabs
+itemGroup.tabJojoBAdv=Steve's Bizarre Adventure
+
+#KeyBindings
+key.categories.JojosBAdv=Steve's Bizarre Adventure
+key.spawnStand.desc=Summon Stand
+
+#Achievements
+achievement.page.jojobadvmod_custom=Custom Achievement.
+
+#ExtraText
+stands.jojobadv.Act.txt=ACT
+stands.jojobadv.Exp.txt=Exp
+
+#ChatMessages
+msg.jojobadv.starplatinum_orarush.txt=Ora Rush!
+msg.jojobadv.magicianred_crossfire.txt=Cross Fire!
+msg.jojobadv.theworld_stoptime.txt=ZA WORUDO!!
+msg.jojobadv.hunger.txt=Too hungry to attack.
+msg.jojobadv.notenoughexp.txt=Not enough EXP!
+msg.jojobadv.standalready.txt=Already have a stand.
+msg.jojobadv.fusion.txt=Attack mode : Restoration
+msg.jojobadv.destruction.txt=Attack mode : Destruction
+msg.jojobadv.sneaktimer.txt=Sneak Timer = 
+msg.jojobadv.seconds.txt=seconds.
+
+#Items
+item.item_vampireblood.name=Vampire Blood
+item.item_hardArrow.name=Hard Arrow
+item.item_stoneMask.name=Stone Mask
+item.item_emperor_stand.name=Emperor
+item.item_sheerheart_attack.name=Sheer Heart Attack
+item.item_bombswitch.name=Bomb Switch
+item.item_thehand_stand.name=The Hand
+item.item_knife.name=Knife
+item.stand_Arrow.name=Stand Arrow
+item.stand_SC.name=Silver Chariot
+item.stand_MR.name=Magician's Red
+item.stand_SP.name=Star Platinum
+item.stand_TW.name=The World
+item.stand_E.name=The Emperor
+item.stand_CD.name=Crazy Diamond
+item.stand_EC.name=Echoes
+item.stand_KQ.name=Killer Queen
+item.stand_TH.name=The Hand
+item.stand_SF.name=Sticky Fingers
+item.stand_TF.name=The Fool
+item.stand_HG.name=Hierophant Green
+item.item_tempStandSummon.name=Creative item used in debug.
+item.item_discStand.name=Stand Disc
+
+#Blocks
+tile.custom.name=Custom Block
+
+#Entity
+entity.Diavolo.name=Diavolo
+entity.Hamon.name=Hamon
+entity.Hamonuser.name=Hamon User
+entity.Vampire_laser.name=Vampire's Laser
+entity.Vampirepower.name=Vampire's Power
+entity.Vampire.name=Vampire Thrall
+entity.Stand.name=Stand
+entity.Star_Platinum.name=Star Platinum
+entity.Star Platinum punch.name=Star Platinum's Punch
+entity.Magician's Red.name=Magician's Red
+entity.Magician's Red-fire.name=Magician's Red Fire
+entity.Silver Chariot.name=Silver Chariot
+entity.Silver Chariot blade.name=Silver Chariot's Blade
+entity.The World.name=The World
+entity.The World punch.name=The World's Punch
+entity.Emperor.name=The Emperor
+entity.Emperor - bullet.name= The Emperor's Bullet
+entity.Crazy Diamond.name=Crazy Diamond
+entity.Crazy Diamond - punch.name= Crazy Diamond's Punch
+entity.Echoes Egg.name=Echoes Egg
+entity.Echoes Act1.name=Echoes Act1
+entity.Echoes sound.name=Echoes Sound
+entity.Echoes Act2.name=Echoes Act2
+entity.Echoes Act3.name=Echoes Act3
+entity.Echoes Act3 punch.name=Echoes Act3's Punch
+entity.Killer Queen.name=Killer Queen
+entity.Sheer Heart Attack_target.name=Sheer Heart Attack's Target
+entity.Sheer Heart Attack.name=Sheer Heart Attack
+entity.In Bomb.name=In Bomb
+entity.Out Bomb.name=Out Bomb
+entity.Killer Queen - punch.name=Killer Queen's Punch
+entity.The Hand.name=The Hand
+entity.The Hand - punch.name=The Hand's Punch
+entity.Sticky Fingers.name=Sticky Fingers
+entity.Sticky Fingers - punch.name=Sticky Fingers Punch
+entity.Knife.name=Knife
+entity.The Fool.name=The Fool
+entity.Dark Blue Moon.name=Dark Blue Moon
+entity.Dark Blue Moon - cutter.name=Dark Blue Moon's Cutter
+entity.Hierophant Green.name=Hierophant Green
+entity.Hierophant Green - emerald splash.name=Emerald Splash
+
+#entityregistry
+entity.jojobadv.Diavolo.name=Diavolo
+entity.jojobadv.Hamon.name=Hamon
+entity.jojobadv.Hamonuser.name=Hamon User
+entity.jojobadv.Vampire_laser.name=Vampire's Laser
+entity.jojobadv.Vampirepower.name=Vampire's Power
+entity.jojobadv.Vampire.name=Vampire
+entity.jojobadv.Stand.name=Stand
+entity.jojobadv.Star_Platinum.name=Star Platinum
+entity.jojobadv.Star Platinum punch.name=Star Platinum's Punch
+entity.jojobadv.Magician's Red.name=Magician's Red
+entity.jojobadv.Magician's Red-fire.name=Magician's Red Fire
+entity.jojobadv.Silver Chariot.name=Silver Chariot
+entity.jojobadv.Silver Chariot blade.name=Silver Chariot's Blade
+entity.jojobadv.The World.name=The World
+entity.jojobadv.The World punch.name=The World's Punch
+entity.jojobadv.Emperor.name=The Emperor
+entity.jojobadv.Emperor - bullet.name= The Emperor's Bullet
+entity.jojobadv.Crazy Diamond.name=Crazy Diamond
+entity.jojobadv.Crazy Diamond - punch.name= Crazy Diamond's Punch
+entity.jojobadv.Echoes Egg.name=Echoes Egg
+entity.jojobadv.Echoes Act1.name=Echoes Act1
+entity.jojobadv.Echoes sound.name=Echoes Sound
+entity.jojobadv.Echoes Act2.name=Echoes Act2
+entity.jojobadv.Echoes Act3.name=Echoes Act3
+entity.jojobadv.Echoes Act3 punch.name=Echoes Act3's Punch
+entity.jojobadv.Killer Queen.name=Killer Queen
+entity.jojobadv.Sheer Heart Attack_target.name=Sheer Heart Attack's Target
+entity.jojobadv.Sheer Heart Attack.name=Sheer Heart Attack
+entity.jojobadv.In Bomb.name=In Bomb
+entity.jojobadv.Out Bomb.name=Out Bomb
+entity.jojobadv.Killer Queen - punch.name=Killer Queen's Punch
+entity.jojobadv.The Hand.name=The Hand
+entity.jojobadv.Sticky Fingers.name=Sticky Fingers
+entity.jojobadv.Sticky Fingers - punch.name=Sticky Fingers Punch
+entity.jojobadv.Knife.name=Knife
+entity.jojobadv.The Fool.name=The Fool
+entity.jojobadv.Dark Blue Moon.name=Dark Blue Moon
+entity.jojobadv.Dark Blue Moon - cutter.name=Dark Blue Moon's Cutter
+entity.jojobadv.Hierophant Green.name=Hierophant Green
+entity.jojobadv.Hierophant Green - emerald splash.name=Emerald Splash
