@@ -1,0 +1,7 @@
+    /**
+     * 调用生成的方块注册代码
+     */
+    private static void registerGeneratedBlocks() {
+        // 注册自动生成的方块
+        GeneratedBlocks.registerAll();
+    }
