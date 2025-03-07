@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\guncraft",
+        "down": "blockstorage:textures\\tf\\blocks\\guncraft",
+        "up": "blockstorage:textures\\tf\\blocks\\guncraft_top",
+        "north": "blockstorage:textures\\tf\\blocks\\guncraft_side",
+        "east": "blockstorage:textures\\tf\\blocks\\guncraft_side",
+        "south": "blockstorage:textures\\tf\\blocks\\guncraft_side",
+        "west": "blockstorage:textures\\tf\\blocks\\guncraft_side"
+    }
+}

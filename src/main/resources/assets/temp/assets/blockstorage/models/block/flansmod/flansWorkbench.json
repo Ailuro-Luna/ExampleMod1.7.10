@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\flansmod\\blocks\\planeCraftingTableSide",
+        "down": "blockstorage:textures\\flansmod\\blocks\\planeCraftingTableSide",
+        "up": "blockstorage:textures\\flansmod\\blocks\\planeCraftingTableSmall",
+        "north": "blockstorage:textures\\flansmod\\blocks\\planeCraftingTableSide",
+        "east": "blockstorage:textures\\flansmod\\blocks\\planeCraftingTableSide",
+        "south": "blockstorage:textures\\flansmod\\blocks\\planeCraftingTableSide",
+        "west": "blockstorage:textures\\flansmod\\blocks\\planeCraftingTableSide"
+    }
+}

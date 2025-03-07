@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\arsfurnace",
+        "down": "blockstorage:textures\\tf\\blocks\\arsfurnace",
+        "up": "blockstorage:textures\\tf\\blocks\\arsfurnace",
+        "north": "blockstorage:textures\\tf\\blocks\\arsfurnace",
+        "east": "blockstorage:textures\\tf\\blocks\\arsfurnace_face",
+        "south": "blockstorage:textures\\tf\\blocks\\arsfurnace",
+        "west": "blockstorage:textures\\tf\\blocks\\arsfurnace"
+    }
+}

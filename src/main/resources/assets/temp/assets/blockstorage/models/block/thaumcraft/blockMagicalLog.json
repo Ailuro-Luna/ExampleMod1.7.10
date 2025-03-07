@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\thaumcraft\\blocks\\greatwoodtop",
+        "down": "blockstorage:textures\\thaumcraft\\blocks\\greatwoodtop",
+        "up": "blockstorage:textures\\thaumcraft\\blocks\\greatwoodtop",
+        "north": "blockstorage:textures\\thaumcraft\\blocks\\greatwoodside",
+        "east": "blockstorage:textures\\thaumcraft\\blocks\\greatwoodside",
+        "south": "blockstorage:textures\\thaumcraft\\blocks\\greatwoodside",
+        "west": "blockstorage:textures\\thaumcraft\\blocks\\greatwoodside"
+    }
+}

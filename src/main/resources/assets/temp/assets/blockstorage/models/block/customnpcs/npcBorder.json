@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/iron_block",
+        "down": "blockstorage:textures/minecraft/blocks/iron_block",
+        "up": "blockstorage:textures\\customnpcs\\blocks\\npcBorder",
+        "north": "blockstorage:textures/minecraft/blocks/iron_block",
+        "east": "blockstorage:textures/minecraft/blocks/iron_block",
+        "south": "blockstorage:textures/minecraft/blocks/iron_block",
+        "west": "blockstorage:textures/minecraft/blocks/iron_block"
+    }
+}

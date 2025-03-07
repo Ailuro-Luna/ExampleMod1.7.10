@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/redstone_torch_off",
+        "down": "blockstorage:textures/minecraft/blocks/redstone_torch_off",
+        "up": "blockstorage:textures/minecraft/blocks/comparator_off",
+        "north": "blockstorage:textures/minecraft/blocks/stone_slab_top",
+        "east": "blockstorage:textures/minecraft/blocks/stone_slab_top",
+        "south": "blockstorage:textures/minecraft/blocks/stone_slab_top",
+        "west": "blockstorage:textures/minecraft/blocks/stone_slab_top"
+    }
+}

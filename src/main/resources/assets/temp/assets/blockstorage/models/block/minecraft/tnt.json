@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/tnt_bottom",
+        "down": "blockstorage:textures/minecraft/blocks/tnt_bottom",
+        "up": "blockstorage:textures/minecraft/blocks/tnt_top",
+        "north": "blockstorage:textures/minecraft/blocks/tnt_side",
+        "east": "blockstorage:textures/minecraft/blocks/tnt_side",
+        "south": "blockstorage:textures/minecraft/blocks/tnt_side",
+        "west": "blockstorage:textures/minecraft/blocks/tnt_side"
+    }
+}

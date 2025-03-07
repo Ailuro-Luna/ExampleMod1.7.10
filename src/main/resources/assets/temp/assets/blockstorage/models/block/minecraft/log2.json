@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/log_acacia_top",
+        "down": "blockstorage:textures/minecraft/blocks/log_acacia_top",
+        "up": "blockstorage:textures/minecraft/blocks/log_acacia_top",
+        "north": "blockstorage:textures/minecraft/blocks/log_acacia",
+        "east": "blockstorage:textures/minecraft/blocks/log_acacia",
+        "south": "blockstorage:textures/minecraft/blocks/log_acacia",
+        "west": "blockstorage:textures/minecraft/blocks/log_acacia"
+    }
+}

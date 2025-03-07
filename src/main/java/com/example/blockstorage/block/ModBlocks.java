@@ -20,9 +20,9 @@ public class ModBlocks {
     private static final Map<String, Map<String, Block>> BLOCK_PACKAGES = new HashMap<String, Map<String, Block>>();
 
     // 预定义16个包名，方便分类管理
-    private static final String[] PACKAGES = new String[] { "ic2", "buildcraft", "forestry", "thermal", "applied",
-        "railcraft", "mekanism", "immersive", "redpower", "enderio", "extra", "computercraft", "gregtech", "thaumcraft",
-        "botania", "custom" };
+    private static final String[] PACKAGES = new String[] { "bamboo", "customnpcs", "flansmod", "harvestcraft", "ic2",
+        "jojobadv", "moreplayermodels", "mw", "nuclearcontrol", "railcraft", "shincolle", "tf", "thaumcraft",
+        "thkaguyamod", "twilightforest" };
 
     /**
      * 调用生成的方块注册代码

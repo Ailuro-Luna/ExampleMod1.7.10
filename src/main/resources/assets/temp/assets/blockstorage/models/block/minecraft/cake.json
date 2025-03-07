@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/cake_bottom",
+        "down": "blockstorage:textures/minecraft/blocks/cake_bottom",
+        "up": "blockstorage:textures/minecraft/blocks/cake_top",
+        "north": "blockstorage:textures/minecraft/blocks/cake_side",
+        "east": "blockstorage:textures/minecraft/blocks/cake_side",
+        "south": "blockstorage:textures/minecraft/blocks/cake_side",
+        "west": "blockstorage:textures/minecraft/blocks/cake_side"
+    }
+}

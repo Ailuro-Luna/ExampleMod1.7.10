@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\aurora_pillar_top",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\aurora_pillar_top",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\aurora_pillar_top",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\aurora_pillar_side",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\aurora_pillar_side",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\aurora_pillar_side",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\aurora_pillar_side"
+    }
+}

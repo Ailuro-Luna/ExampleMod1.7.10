@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blockstorage:textures\\twilightforest\\blocks\\towerdev_reappearing_off"
+    }
+}

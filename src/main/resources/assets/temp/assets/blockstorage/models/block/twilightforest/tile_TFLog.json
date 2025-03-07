@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\oak_top",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\oak_top",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\oak_top",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\oak_side",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\oak_side",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\oak_side",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\oak_side"
+    }
+}

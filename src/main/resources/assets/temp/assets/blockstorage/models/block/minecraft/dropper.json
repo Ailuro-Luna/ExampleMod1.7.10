@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/dropper_front_vertical",
+        "down": "blockstorage:textures/minecraft/blocks/dropper_front_vertical",
+        "up": "blockstorage:textures/minecraft/blocks/furnace_top",
+        "north": "blockstorage:textures/minecraft/blocks/furnace_top",
+        "east": "blockstorage:textures/minecraft/blocks/furnace_top",
+        "south": "blockstorage:textures/minecraft/blocks/furnace_top",
+        "west": "blockstorage:textures/minecraft/blocks/furnace_top"
+    }
+}

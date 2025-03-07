@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\bamboo\\blocks\\jpchest_o",
+        "down": "blockstorage:textures\\bamboo\\blocks\\jpchest_o",
+        "up": "blockstorage:textures\\bamboo\\blocks\\jpchest_o",
+        "north": "blockstorage:textures\\bamboo\\blocks\\jpchest_o",
+        "east": "blockstorage:textures\\bamboo\\blocks\\jpchest_f",
+        "south": "blockstorage:textures\\bamboo\\blocks\\jpchest_o",
+        "west": "blockstorage:textures\\bamboo\\blocks\\jpchest_o"
+    }
+}

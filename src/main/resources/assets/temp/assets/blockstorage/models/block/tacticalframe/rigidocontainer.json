@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\rigidocontainer_top",
+        "down": "blockstorage:textures\\tf\\blocks\\rigidocontainer_top",
+        "up": "blockstorage:textures\\tf\\blocks\\rigidocontainer_top",
+        "north": "blockstorage:textures\\tf\\blocks\\rigidocontainer_side",
+        "east": "blockstorage:textures\\tf\\blocks\\rigidocontainer_face",
+        "south": "blockstorage:textures\\tf\\blocks\\rigidocontainer_side",
+        "west": "blockstorage:textures\\tf\\blocks\\rigidocontainer_side"
+    }
+}

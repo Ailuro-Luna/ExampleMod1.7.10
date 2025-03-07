@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/grass_top",
+        "down": "blockstorage:textures/minecraft/blocks/grass_top",
+        "up": "blockstorage:textures/minecraft/blocks/grass_top",
+        "north": "blockstorage:textures\\tf\\blocks\\explodetrap",
+        "east": "blockstorage:textures\\tf\\blocks\\explodetrap",
+        "south": "blockstorage:textures\\tf\\blocks\\explodetrap",
+        "west": "blockstorage:textures\\tf\\blocks\\explodetrap"
+    }
+}

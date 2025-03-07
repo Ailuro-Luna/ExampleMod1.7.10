@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\flansmod\\blocks\\boxBottom",
+        "down": "blockstorage:textures\\flansmod\\blocks\\boxBottom",
+        "up": "blockstorage:textures\\flansmod\\blocks\\boxTop",
+        "north": "blockstorage:textures/flansmod/blocks/AmericanBox",
+        "east": "blockstorage:textures/flansmod/blocks/AmericanBox",
+        "south": "blockstorage:textures/flansmod/blocks/AmericanBox",
+        "west": "blockstorage:textures/flansmod/blocks/AmericanBox"
+    }
+}

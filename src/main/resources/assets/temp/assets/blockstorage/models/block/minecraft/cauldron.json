@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/cauldron_bottom",
+        "down": "blockstorage:textures/minecraft/blocks/cauldron_bottom",
+        "up": "blockstorage:textures/minecraft/blocks/cauldron_top",
+        "north": "blockstorage:textures/minecraft/blocks/cauldron_side",
+        "east": "blockstorage:textures/minecraft/blocks/cauldron_side",
+        "south": "blockstorage:textures/minecraft/blocks/cauldron_side",
+        "west": "blockstorage:textures/minecraft/blocks/cauldron_side"
+    }
+}

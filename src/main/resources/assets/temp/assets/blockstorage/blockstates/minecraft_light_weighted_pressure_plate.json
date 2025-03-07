@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": {
+            "model": "blockstorage:block/minecraft/light_weighted_pressure_plate"
+        }
+    }
+}

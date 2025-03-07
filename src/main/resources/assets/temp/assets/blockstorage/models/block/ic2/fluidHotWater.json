@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\ic2\\blocks\\fluids\\hotwater_still",
+        "down": "blockstorage:textures\\ic2\\blocks\\fluids\\hotwater_still",
+        "up": "blockstorage:textures\\ic2\\blocks\\fluids\\hotwater_still",
+        "north": "blockstorage:textures\\ic2\\blocks\\fluids\\hotwater_flow",
+        "east": "blockstorage:textures\\ic2\\blocks\\fluids\\hotwater_flow",
+        "south": "blockstorage:textures\\ic2\\blocks\\fluids\\hotwater_flow",
+        "west": "blockstorage:textures\\ic2\\blocks\\fluids\\hotwater_flow"
+    }
+}

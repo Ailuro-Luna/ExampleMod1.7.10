@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\thaumcraft\\blocks\\arcaneearbottom",
+        "down": "blockstorage:textures\\thaumcraft\\blocks\\arcaneearbottom",
+        "up": "blockstorage:textures\\thaumcraft\\blocks\\liftertop",
+        "north": "blockstorage:textures\\thaumcraft\\blocks\\lifterside",
+        "east": "blockstorage:textures\\thaumcraft\\blocks\\lifterside",
+        "south": "blockstorage:textures\\thaumcraft\\blocks\\lifterside",
+        "west": "blockstorage:textures\\thaumcraft\\blocks\\lifterside"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\harvestcraft\\blocks\\cuttingboardsidebottom",
+        "down": "blockstorage:textures\\harvestcraft\\blocks\\cuttingboardsidebottom",
+        "up": "blockstorage:textures\\harvestcraft\\blocks\\cuttingboardtop",
+        "north": "blockstorage:textures\\harvestcraft\\blocks\\cuttingboardsidebottom",
+        "east": "blockstorage:textures\\harvestcraft\\blocks\\cuttingboardsidebottom",
+        "south": "blockstorage:textures\\harvestcraft\\blocks\\cuttingboardsidebottom",
+        "west": "blockstorage:textures\\harvestcraft\\blocks\\cuttingboardsidebottom"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\huge_lilypad_0",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\huge_lilypad_0",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\huge_lilypad_0",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\blank",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\blank",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\blank",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\blank"
+    }
+}

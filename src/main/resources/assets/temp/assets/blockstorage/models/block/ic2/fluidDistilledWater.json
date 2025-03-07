@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\ic2\\blocks\\fluids\\distilledwater_still",
+        "down": "blockstorage:textures\\ic2\\blocks\\fluids\\distilledwater_still",
+        "up": "blockstorage:textures\\ic2\\blocks\\fluids\\distilledwater_still",
+        "north": "blockstorage:textures\\ic2\\blocks\\fluids\\distilledwater_flow",
+        "east": "blockstorage:textures\\ic2\\blocks\\fluids\\distilledwater_flow",
+        "south": "blockstorage:textures\\ic2\\blocks\\fluids\\distilledwater_flow",
+        "west": "blockstorage:textures\\ic2\\blocks\\fluids\\distilledwater_flow"
+    }
+}

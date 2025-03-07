@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\thaumcraft\\blocks\\crate_top",
+        "down": "blockstorage:textures\\thaumcraft\\blocks\\crate_top",
+        "up": "blockstorage:textures\\thaumcraft\\blocks\\crate_top",
+        "north": "blockstorage:textures\\thaumcraft\\blocks\\crate_side_0",
+        "east": "blockstorage:textures\\thaumcraft\\blocks\\crate_side_0",
+        "south": "blockstorage:textures\\thaumcraft\\blocks\\crate_side_0",
+        "west": "blockstorage:textures\\thaumcraft\\blocks\\crate_side_0"
+    }
+}

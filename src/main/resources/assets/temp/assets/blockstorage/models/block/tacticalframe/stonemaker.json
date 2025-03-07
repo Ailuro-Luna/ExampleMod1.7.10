@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\stonemaker",
+        "down": "blockstorage:textures\\tf\\blocks\\stonemaker",
+        "up": "blockstorage:textures\\tf\\blocks\\stonemaker",
+        "north": "blockstorage:textures\\tf\\blocks\\stonemaker",
+        "east": "blockstorage:textures\\tf\\blocks\\stonemaker_face",
+        "south": "blockstorage:textures\\tf\\blocks\\stonemaker",
+        "west": "blockstorage:textures\\tf\\blocks\\stonemaker"
+    }
+}

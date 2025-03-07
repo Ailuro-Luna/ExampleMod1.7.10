@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/flansmod/blocks/ModernArmourBoxTop",
+        "down": "blockstorage:textures/flansmod/blocks/ModernArmourBoxTop",
+        "up": "blockstorage:textures/flansmod/blocks/ModernArmourBoxTop",
+        "north": "blockstorage:textures/flansmod/blocks/ModernArmourBoxSide",
+        "east": "blockstorage:textures/flansmod/blocks/ModernArmourBoxSide",
+        "south": "blockstorage:textures/flansmod/blocks/ModernArmourBoxSide",
+        "west": "blockstorage:textures/flansmod/blocks/ModernArmourBoxSide"
+    }
+}

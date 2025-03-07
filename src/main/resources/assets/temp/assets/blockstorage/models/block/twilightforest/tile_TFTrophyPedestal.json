@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\pedestal_top",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\pedestal_top",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\pedestal_top",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\pedestal_naga",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\pedestal_lich",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\pedestal_hydra",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\pedestal_urghast"
+    }
+}

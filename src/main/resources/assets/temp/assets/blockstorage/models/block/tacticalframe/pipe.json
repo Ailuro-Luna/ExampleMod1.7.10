@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\pipe_top",
+        "down": "blockstorage:textures\\tf\\blocks\\pipe_top",
+        "up": "blockstorage:textures\\tf\\blocks\\pipe_top",
+        "north": "blockstorage:textures\\tf\\blocks\\pipe",
+        "east": "blockstorage:textures\\tf\\blocks\\pipe",
+        "south": "blockstorage:textures\\tf\\blocks\\pipe",
+        "west": "blockstorage:textures\\tf\\blocks\\pipe"
+    }
+}

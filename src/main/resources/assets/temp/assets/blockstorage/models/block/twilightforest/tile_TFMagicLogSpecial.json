@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\time_section",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\time_section",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\time_section",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\time_clock",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\time_clock",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\time_clock",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\time_clock"
+    }
+}

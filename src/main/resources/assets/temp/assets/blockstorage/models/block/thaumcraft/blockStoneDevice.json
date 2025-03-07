@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\thaumcraft\\blocks\\pedestal_top",
+        "down": "blockstorage:textures\\thaumcraft\\blocks\\pedestal_top",
+        "up": "blockstorage:textures\\thaumcraft\\blocks\\al_furnace_top",
+        "north": "blockstorage:textures\\thaumcraft\\blocks\\al_furnace_front_off",
+        "east": "blockstorage:textures\\thaumcraft\\blocks\\al_furnace_front_off",
+        "south": "blockstorage:textures\\thaumcraft\\blocks\\al_furnace_front_off",
+        "west": "blockstorage:textures\\thaumcraft\\blocks\\al_furnace_front_off"
+    }
+}

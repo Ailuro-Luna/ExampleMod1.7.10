@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": {
+            "model": "blockstorage:block/minecraft/stained_hardened_clay"
+        }
+    }
+}

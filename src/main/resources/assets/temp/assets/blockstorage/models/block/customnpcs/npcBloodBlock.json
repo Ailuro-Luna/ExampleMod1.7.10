@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\customnpcs\\blocks\\npcBloodBlock",
+        "down": "blockstorage:textures\\customnpcs\\blocks\\npcBloodBlock",
+        "up": "blockstorage:textures\\customnpcs\\blocks\\npcBloodBlock2",
+        "north": "blockstorage:textures\\customnpcs\\blocks\\npcBloodBlock3",
+        "east": "blockstorage:textures\\customnpcs\\blocks\\npcBloodBlock",
+        "south": "blockstorage:textures\\customnpcs\\blocks\\npcBloodBlock2",
+        "west": "blockstorage:textures\\customnpcs\\blocks\\npcBloodBlock3"
+    }
+}

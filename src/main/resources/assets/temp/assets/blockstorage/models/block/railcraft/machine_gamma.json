@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/railcraft/blocks/loader.item.2",
+        "down": "blockstorage:textures/railcraft/blocks/loader.item.2",
+        "up": "blockstorage:textures/railcraft/blocks/loader.item.0",
+        "north": "blockstorage:textures/railcraft/blocks/loader.item.1",
+        "east": "blockstorage:textures/railcraft/blocks/loader.item.1",
+        "south": "blockstorage:textures/railcraft/blocks/loader.item.1",
+        "west": "blockstorage:textures/railcraft/blocks/loader.item.1"
+    }
+}

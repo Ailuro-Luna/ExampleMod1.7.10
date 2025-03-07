@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\pulverizer_top",
+        "down": "blockstorage:textures\\tf\\blocks\\pulverizer_top",
+        "up": "blockstorage:textures\\tf\\blocks\\pulverizer_top",
+        "north": "blockstorage:textures\\tf\\blocks\\pulverizer_side",
+        "east": "blockstorage:textures\\tf\\blocks\\pulverizer_face",
+        "south": "blockstorage:textures\\tf\\blocks\\pulverizer_side",
+        "west": "blockstorage:textures\\tf\\blocks\\pulverizer_side"
+    }
+}

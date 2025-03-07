@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/railcraft/blocks/anchor.world.0",
+        "down": "blockstorage:textures/railcraft/blocks/anchor.world.0",
+        "up": "blockstorage:textures/railcraft/blocks/anchor.world.0",
+        "north": "blockstorage:textures/railcraft/blocks/anchor.world.1",
+        "east": "blockstorage:textures/railcraft/blocks/anchor.world.1",
+        "south": "blockstorage:textures/railcraft/blocks/anchor.world.1",
+        "west": "blockstorage:textures/railcraft/blocks/anchor.world.1"
+    }
+}

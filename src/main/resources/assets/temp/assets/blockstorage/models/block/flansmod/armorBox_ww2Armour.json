@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/flansmod/blocks/ww2ArmourBox",
+        "down": "blockstorage:textures/flansmod/blocks/ww2ArmourBox",
+        "up": "blockstorage:textures/flansmod/blocks/ww2ArmourBox",
+        "north": "blockstorage:textures/flansmod/blocks/ww2ArmourBoxSide",
+        "east": "blockstorage:textures/flansmod/blocks/ww2ArmourBoxSide",
+        "south": "blockstorage:textures/flansmod/blocks/ww2ArmourBoxSide",
+        "west": "blockstorage:textures/flansmod/blocks/ww2ArmourBoxSide"
+    }
+}

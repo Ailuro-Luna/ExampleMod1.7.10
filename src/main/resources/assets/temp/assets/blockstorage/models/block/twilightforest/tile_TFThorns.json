@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\brown_thorns_top",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\brown_thorns_top",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\brown_thorns_top",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\brown_thorns_side",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\brown_thorns_side",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\brown_thorns_side",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\brown_thorns_side"
+    }
+}

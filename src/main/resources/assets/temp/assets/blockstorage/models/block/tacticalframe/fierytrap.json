@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/cobblestone",
+        "down": "blockstorage:textures/minecraft/blocks/cobblestone",
+        "up": "blockstorage:textures/minecraft/blocks/cobblestone",
+        "north": "blockstorage:textures\\tf\\blocks\\fierytrap",
+        "east": "blockstorage:textures\\tf\\blocks\\fierytrap",
+        "south": "blockstorage:textures\\tf\\blocks\\fierytrap",
+        "west": "blockstorage:textures\\tf\\blocks\\fierytrap"
+    }
+}

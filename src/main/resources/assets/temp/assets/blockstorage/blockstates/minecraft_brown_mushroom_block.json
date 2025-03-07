@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": {
+            "model": "blockstorage:block/minecraft/brown_mushroom_block"
+        }
+    }
+}

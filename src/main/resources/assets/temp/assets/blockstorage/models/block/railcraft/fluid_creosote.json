@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\railcraft\\blocks\\fluids\\creosote_still",
+        "down": "blockstorage:textures\\railcraft\\blocks\\fluids\\creosote_still",
+        "up": "blockstorage:textures\\railcraft\\blocks\\fluids\\creosote_still",
+        "north": "blockstorage:textures\\railcraft\\blocks\\fluids\\creosote_flow",
+        "east": "blockstorage:textures\\railcraft\\blocks\\fluids\\creosote_flow",
+        "south": "blockstorage:textures\\railcraft\\blocks\\fluids\\creosote_flow",
+        "west": "blockstorage:textures\\railcraft\\blocks\\fluids\\creosote_flow"
+    }
+}

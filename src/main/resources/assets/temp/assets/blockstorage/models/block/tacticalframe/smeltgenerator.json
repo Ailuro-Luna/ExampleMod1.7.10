@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\smeltgenerator_top",
+        "down": "blockstorage:textures\\tf\\blocks\\smeltgenerator_top",
+        "up": "blockstorage:textures\\tf\\blocks\\smeltgenerator_top",
+        "north": "blockstorage:textures\\tf\\blocks\\smeltgenerator",
+        "east": "blockstorage:textures\\tf\\blocks\\smeltgenerator_face",
+        "south": "blockstorage:textures\\tf\\blocks\\smeltgenerator",
+        "west": "blockstorage:textures\\tf\\blocks\\smeltgenerator"
+    }
+}

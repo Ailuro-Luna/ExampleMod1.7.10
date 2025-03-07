@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/hay_block_top",
+        "down": "blockstorage:textures/minecraft/blocks/hay_block_top",
+        "up": "blockstorage:textures/minecraft/blocks/hay_block_top",
+        "north": "blockstorage:textures/minecraft/blocks/hay_block_side",
+        "east": "blockstorage:textures/minecraft/blocks/hay_block_side",
+        "south": "blockstorage:textures/minecraft/blocks/hay_block_side",
+        "west": "blockstorage:textures/minecraft/blocks/hay_block_side"
+    }
+}

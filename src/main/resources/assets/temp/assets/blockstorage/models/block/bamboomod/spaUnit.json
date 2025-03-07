@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/piston_bottom",
+        "down": "blockstorage:textures/minecraft/blocks/piston_bottom",
+        "up": "blockstorage:textures/minecraft/blocks/piston_top_normal",
+        "north": "blockstorage:textures/minecraft/blocks/piston_bottom",
+        "east": "blockstorage:textures/minecraft/blocks/piston_bottom",
+        "south": "blockstorage:textures/minecraft/blocks/piston_bottom",
+        "west": "blockstorage:textures/minecraft/blocks/piston_bottom"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\uncrafting_side",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\uncrafting_side",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\uncrafting_top",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\uncrafting_side",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\uncrafting_side",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\uncrafting_side",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\uncrafting_side"
+    }
+}

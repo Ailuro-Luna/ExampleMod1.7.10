@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\shincolle\\blocks\\BlockCraneBtm",
+        "down": "blockstorage:textures\\shincolle\\blocks\\BlockCraneBtm",
+        "up": "blockstorage:textures\\shincolle\\blocks\\BlockCraneTop",
+        "north": "blockstorage:textures\\shincolle\\blocks\\BlockCraneSide",
+        "east": "blockstorage:textures\\shincolle\\blocks\\BlockCraneSide",
+        "south": "blockstorage:textures\\shincolle\\blocks\\BlockCraneSide",
+        "west": "blockstorage:textures\\shincolle\\blocks\\BlockCraneSide"
+    }
+}

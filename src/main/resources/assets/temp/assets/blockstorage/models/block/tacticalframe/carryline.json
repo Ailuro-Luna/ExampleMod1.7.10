@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\carryline",
+        "down": "blockstorage:textures\\tf\\blocks\\carryline",
+        "up": "blockstorage:textures\\tf\\blocks\\carryline",
+        "north": "blockstorage:textures\\tf\\blocks\\carryline",
+        "east": "blockstorage:textures\\tf\\blocks\\carryline_face",
+        "south": "blockstorage:textures\\tf\\blocks\\carryline",
+        "west": "blockstorage:textures\\tf\\blocks\\carryline"
+    }
+}

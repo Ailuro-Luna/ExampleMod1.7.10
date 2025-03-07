@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\nagastone_bottom_tip",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\nagastone_bottom_tip",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\nagastone_top_tip",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\nagastone_face_front",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\nagastone_cross_section",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\nagastone_face_left",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\nagastone_face_left"
+    }
+}

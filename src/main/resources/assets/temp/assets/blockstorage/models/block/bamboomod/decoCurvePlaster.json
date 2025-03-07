@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\bamboo\\blocks\\decoplaster_l_0",
+        "down": "blockstorage:textures\\bamboo\\blocks\\decoplaster_l_0",
+        "up": "blockstorage:textures\\bamboo\\blocks\\decoplaster_l_0",
+        "north": "blockstorage:textures\\bamboo\\blocks\\plaster",
+        "east": "blockstorage:textures\\bamboo\\blocks\\plaster",
+        "south": "blockstorage:textures\\bamboo\\blocks\\plaster",
+        "west": "blockstorage:textures\\bamboo\\blocks\\plaster"
+    }
+}

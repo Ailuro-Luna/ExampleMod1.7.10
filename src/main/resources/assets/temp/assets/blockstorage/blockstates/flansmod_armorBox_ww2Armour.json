@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": {
+            "model": "blockstorage:block/flansmod/armorBox_ww2Armour"
+        }
+    }
+}

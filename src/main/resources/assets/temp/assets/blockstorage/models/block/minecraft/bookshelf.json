@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/planks_oak",
+        "down": "blockstorage:textures/minecraft/blocks/planks_oak",
+        "up": "blockstorage:textures/minecraft/blocks/planks_oak",
+        "north": "blockstorage:textures/minecraft/blocks/bookshelf",
+        "east": "blockstorage:textures/minecraft/blocks/bookshelf",
+        "south": "blockstorage:textures/minecraft/blocks/bookshelf",
+        "west": "blockstorage:textures/minecraft/blocks/bookshelf"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\harvestcraft\\blocks\\sinkbottom_0",
+        "down": "blockstorage:textures\\harvestcraft\\blocks\\sinkbottom_0",
+        "up": "blockstorage:textures\\harvestcraft\\blocks\\apiarytop",
+        "north": "blockstorage:textures\\harvestcraft\\blocks\\apiaryside",
+        "east": "blockstorage:textures\\harvestcraft\\blocks\\apiaryside",
+        "south": "blockstorage:textures\\harvestcraft\\blocks\\apiaryside",
+        "west": "blockstorage:textures\\harvestcraft\\blocks\\apiaryside"
+    }
+}

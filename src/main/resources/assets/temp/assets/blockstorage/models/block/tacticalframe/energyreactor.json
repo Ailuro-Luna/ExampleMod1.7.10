@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\energyreactor_top",
+        "down": "blockstorage:textures\\tf\\blocks\\energyreactor_top",
+        "up": "blockstorage:textures\\tf\\blocks\\energyreactor_top",
+        "north": "blockstorage:textures\\tf\\blocks\\energyreactor",
+        "east": "blockstorage:textures\\tf\\blocks\\energyreactor_face",
+        "south": "blockstorage:textures\\tf\\blocks\\energyreactor",
+        "west": "blockstorage:textures\\tf\\blocks\\energyreactor"
+    }
+}

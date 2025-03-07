@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\catapult",
+        "down": "blockstorage:textures\\tf\\blocks\\catapult",
+        "up": "blockstorage:textures\\tf\\blocks\\catapult",
+        "north": "blockstorage:textures\\tf\\blocks\\catapult",
+        "east": "blockstorage:textures\\tf\\blocks\\catapult_face",
+        "south": "blockstorage:textures\\tf\\blocks\\catapult",
+        "west": "blockstorage:textures\\tf\\blocks\\catapult"
+    }
+}

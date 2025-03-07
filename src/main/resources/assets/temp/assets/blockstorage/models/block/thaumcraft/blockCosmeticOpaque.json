@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\thaumcraft\\blocks\\amberblock_top",
+        "down": "blockstorage:textures\\thaumcraft\\blocks\\amberblock_top",
+        "up": "blockstorage:textures\\thaumcraft\\blocks\\amberblock_top",
+        "north": "blockstorage:textures\\thaumcraft\\blocks\\amberblock",
+        "east": "blockstorage:textures\\thaumcraft\\blocks\\amberblock",
+        "south": "blockstorage:textures\\thaumcraft\\blocks\\amberblock",
+        "west": "blockstorage:textures\\thaumcraft\\blocks\\amberblock"
+    }
+}

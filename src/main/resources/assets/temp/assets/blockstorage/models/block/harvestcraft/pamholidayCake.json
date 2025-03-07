@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\harvestcraft\\blocks\\pamholidaycake_bottom",
+        "down": "blockstorage:textures\\harvestcraft\\blocks\\pamholidaycake_bottom",
+        "up": "blockstorage:textures\\harvestcraft\\blocks\\pamholidaycake_top",
+        "north": "blockstorage:textures\\harvestcraft\\blocks\\pamholidaycake_side",
+        "east": "blockstorage:textures\\harvestcraft\\blocks\\pamholidaycake_side",
+        "south": "blockstorage:textures\\harvestcraft\\blocks\\pamholidaycake_side",
+        "west": "blockstorage:textures\\harvestcraft\\blocks\\pamholidaycake_side"
+    }
+}

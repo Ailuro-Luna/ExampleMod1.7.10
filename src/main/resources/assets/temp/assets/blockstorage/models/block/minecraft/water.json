@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures/minecraft/blocks/water_still",
+        "down": "blockstorage:textures/minecraft/blocks/water_still",
+        "up": "blockstorage:textures/minecraft/blocks/water_still",
+        "north": "blockstorage:textures/minecraft/blocks/water_flow",
+        "east": "blockstorage:textures/minecraft/blocks/water_flow",
+        "south": "blockstorage:textures/minecraft/blocks/water_flow",
+        "west": "blockstorage:textures/minecraft/blocks/water_flow"
+    }
+}

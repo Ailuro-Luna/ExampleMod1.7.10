@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\tf\\blocks\\coreblock_top_1",
+        "down": "blockstorage:textures\\tf\\blocks\\coreblock_top_1",
+        "up": "blockstorage:textures\\tf\\blocks\\coreblock_top_1",
+        "north": "blockstorage:textures\\tf\\blocks\\coreblock_side_1",
+        "east": "blockstorage:textures\\tf\\blocks\\coreblock_side_1",
+        "south": "blockstorage:textures\\tf\\blocks\\coreblock_side_1",
+        "west": "blockstorage:textures\\tf\\blocks\\coreblock_side_1"
+    }
+}

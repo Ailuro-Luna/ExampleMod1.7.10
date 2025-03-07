@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\shield_inside",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\shield_inside",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\shield_outside",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\shield_outside",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\shield_outside",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\shield_outside",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\shield_outside"
+    }
+}

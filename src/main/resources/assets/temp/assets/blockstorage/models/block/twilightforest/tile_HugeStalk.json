@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blockstorage:textures\\twilightforest\\blocks\\huge_stalk_top",
+        "down": "blockstorage:textures\\twilightforest\\blocks\\huge_stalk_top",
+        "up": "blockstorage:textures\\twilightforest\\blocks\\huge_stalk_top",
+        "north": "blockstorage:textures\\twilightforest\\blocks\\huge_stalk",
+        "east": "blockstorage:textures\\twilightforest\\blocks\\huge_stalk",
+        "south": "blockstorage:textures\\twilightforest\\blocks\\huge_stalk",
+        "west": "blockstorage:textures\\twilightforest\\blocks\\huge_stalk"
+    }
+}
